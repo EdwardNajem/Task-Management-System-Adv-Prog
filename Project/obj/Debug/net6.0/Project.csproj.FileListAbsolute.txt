@@ -1,0 +1,147 @@
+D:\NET.Project\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+D:\NET.Project\Project\Project\bin\Debug\net6.0\appsettings.json
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Project.exe
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Project.deps.json
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Project.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Project.pdb
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+D:\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NET.Project\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.csproj.Up2Date
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.dll
+D:\NET.Project\Project\Project\obj\Debug\net6.0\refint\Project.dll
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.pdb
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+D:\NET.Project\Project\Project\obj\Debug\net6.0\ref\Project.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Humanizer.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\MySqlConnector.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\appsettings.json
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Project.exe
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Project.deps.json
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Project.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Project.pdb
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Humanizer.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\MySqlConnector.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.Properties.Resources.resources
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.csproj.GenerateResource.cache
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\refint\Project.dll
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.pdb
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+D:\Downloads\elieauth\NET.Project\Project\Project\obj\Debug\net6.0\ref\Project.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NET.Project\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.Properties.Resources.resources
+D:\NET.Project\Project\Project\obj\Debug\net6.0\Project.csproj.GenerateResource.cache
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\appsettings.json
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Project.exe
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Project.deps.json
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Project.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Project.pdb
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Humanizer.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\MySqlConnector.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.Properties.Resources.resources
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.csproj.GenerateResource.cache
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.csproj.Up2Date
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\refint\Project.dll
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.pdb
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+D:\UA Spring 2024\Advanced Programming\ProjectFinal\Project\Project\obj\Debug\net6.0\ref\Project.dll
